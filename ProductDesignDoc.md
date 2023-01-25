@@ -50,7 +50,7 @@ Mobile App
 It is finals week and Maddy heads over to the library to study.  Before she realizes it, it is 11:30 PM and she needs to get to her car and go home.  However, Maddy does not feel safe walking alone to her car at night.  She opens up the IIT Safety App and is able to quickly request safe transportation from the library to the parking lot.  Once requested she waits for the car to arrive.
 
 ### Scenario #2
-John is walking to his dorm room from class at 9 PM.  On the way to his dorm room he notices someone smashing a directory sign with a hammer.  John quickly takes out his phone and opens the IIT Safety App.  In the app he reports that he saw tall (around 6') slim man hitting the IIT directory sign on the corner of 33rd and State around 9 PM. 
+John is walking to his dorm room from class at 9 PM.  On the way to his dorm room he notices someone smashing a directory sign with a hammer.  John quickly takes out his phone and opens the IIT Safety App.  In the app he reports that he saw tall (around 6') slim man hitting the IIT directory sign on the corner of 33rd and State around 9 PM.  
 
 
 ## Team Members
