@@ -22,7 +22,7 @@ Mobile App
 | --- | --- | --- | --- | --- |
 | Tanay Dalal | JavaScript |  |  ReactJS |  Microsoft SQL Server  |
 | Blake Odette | Java, Python, C/C++ | | | Oracle Database, Microsoft SQL Server |
-| Verica Karanakova | Java, Python | AndroidStudios | AndroidStudios | PostgreSQL |
+| Verica Karanakova | Java, Python, C | AndroidStudio | AndroidStudio | PostgreSQL |
 | Ayman Shuaibi | Java, Python, JavaScript, C/C++ | AndroidStudio, ReactJS | NodeJS | PostgreSQL |
 
 #### Client Tech 
